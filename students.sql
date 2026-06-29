@@ -21,7 +21,7 @@ INSERT INTO students (
 ('Franz', 'Filip', 2, 'IT', TRUE, NULL),
 ('Ineierskyi', 'Nazar', NULL, 'PR', FALSE, NULL),
 ('Ivaneychik', 'Anton', NULL, 'PR', FALSE, NULL),
-('Kalinichenko', 'Zakhar', NULL, 'PR', FALSE, NULL),
+('Kalinichenko', 'Zakhar', '3', NULL, 'PR', TRUE, NULL),
 ('Khlyshchankou', 'Danilii', NULL, 'PR', FALSE, NULL),
 ('Kiryl', 'Kuzin', NULL, 'PR', FALSE, NULL),
 ('Koshak', 'Olga', NULL, 'PR', FALSE, NULL),
