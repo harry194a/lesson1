@@ -38,6 +38,6 @@ INSERT INTO students (
 ('Stawujak', 'Wiktor', NULL, 'PR', FALSE, NULL),
 ('Templin', 'Adam', NULL, 'PR', FALSE, NULL),
 ('Tichonow', 'Mikolaj', NULL, 'PR', FALSE, NULL),
-('Waszkiewicz', 'Jakub', 3, 'IT', FALSE, NULL),
+('Waszkiewicz', 'Jakub', 3, 'IT', TRUE, NULL),
 ('Wojtkiewicz', 'Filip', 4, 'IT', TRUE, NULL),
 ('Zadorozhnyi', 'Vlasyslv', 3, 'IT', FALSE, NULL);
