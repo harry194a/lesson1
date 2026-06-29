@@ -14,7 +14,7 @@ INSERT INTO students (
     course,
     department,
     smoker,
-    drinks_alcohol_weekly
+    drinks_alcohol_weekly 
 ) VALUES
 ('Bohyra', 'Davyd', 2, 'IT', FALSE, NULL),
 ('Drzazga', 'Kalor', NULL, 'PR', FALSE, NULL),
@@ -37,7 +37,7 @@ INSERT INTO students (
 ('Rybczynska', 'Blanka', NULL, 'VET', FALSE, NULL),
 ('Stawujak', 'Wiktor', NULL, 'PR', FALSE, NULL),
 ('Templin', 'Adam', NULL, 'PR', FALSE, NULL),
-('Tichonow', 'Mikolaj', NULL, 'PR', FALSE, NULL),
+('Tichonow', 'Mikolaj', NULL, 'PR', TRUE, NULL),
 ('Waszkiewicz', 'Jakub', 3, 'IT', FALSE, NULL),
 ('Wojtkiewicz', 'Filip', 4, 'IT', TRUE, NULL),
 ('Zadorozhnyi', 'Vlasyslv', 3, 'IT', FALSE, NULL);
