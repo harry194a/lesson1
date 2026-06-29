@@ -32,7 +32,7 @@ INSERT INTO students (
 ('Kuzminski', 'Hubert', 3, 'IT', FALSE, NULL),
 ('Labkovich', 'Artsiom', NULL, 'PR', FALSE, NULL),
 ('Matiash', 'Yehor', NULL, 'PH', FALSE, NULL),
-('Obala', 'Kuba', NULL, 'PR', FALSE, NULL),
+('Obala', 'Kuba', NULL, 'PR', TRUE, NULL),
 ('Powroznik', 'Patryk', NULL, 'PH', FALSE, NULL),
 ('Rybczynska', 'Blanka', NULL, 'VET', FALSE, NULL),
 ('Stawujak', 'Wiktor', NULL, 'PR', FALSE, NULL),
